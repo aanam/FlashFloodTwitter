@@ -1,0 +1,19 @@
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/amritaanam/PycharmProjects/FlashFloodTwitter/src/tweetLSA_classification.py
+Loading dataset...
+(542, 542)
+(53, 53)
+  Actual number of tfidf features: 455
+
+Performing dimensionality reduction using LSA
+  done in 0.041sec
+  Explained variance of the SVD step: 66%
+
+Classifying tfidf vectors...
+  (46 / 53) correct - 86.79%
+  done in 0.002sec
+
+Classifying LSA vectors...
+  (49 / 53) correct - 92.45%
+    done in 0.002sec
+
+Process finished with exit code 0
